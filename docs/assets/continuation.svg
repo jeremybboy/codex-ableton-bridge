@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1040" height="408" viewBox="0 0 1040 408" role="img" aria-labelledby="title desc">
+  <title id="title">Package the local workflow</title>
+  <desc id="desc">Four review areas: packaged tools, synthetic tests, public guides, and disposable Live acceptance. The scaffold moves to a reviewable bridge while the working Set and prototype stay outside the change.</desc>
+  <rect width="1040" height="408" fill="#202a26"/>
+  <g font-family="'Arial Narrow','Helvetica Neue',Arial,sans-serif" fill="#f8f1e2">
+    <text x="42" y="65" font-size="41" font-weight="700">Package the local workflow</text>
+    <text x="42" y="97" font-size="18" font-family="Georgia,serif">Give reviewers an installable bridge and a way to repeat each check.</text>
+    <path d="M42 127H998" stroke="#b8c1b5"/>
+    <g font-size="15" font-weight="700" fill="#f0a676" letter-spacing="1.3">
+      <text x="42" y="163">01 / PACKAGE</text><text x="302" y="163">02 / FIXTURES</text>
+      <text x="558" y="163">03 / DOCS</text><text x="784" y="163">04 / LIVE PASS</text>
+    </g>
+    <g font-size="22" font-weight="700">
+      <text x="42" y="208">MCP + Remote Script</text><text x="302" y="208">Offline tests</text>
+      <text x="558" y="208">Public Pages</text><text x="784" y="208">Disposable Set</text>
+    </g>
+    <g font-family="Georgia,serif" font-size="17" fill="#e2ded2">
+      <text x="42" y="235">One local protocol</text><text x="302" y="235">Synthetic WAV + stand-in</text>
+      <text x="558" y="235">Setup + evidence</text><text x="784" y="235">Edits, meters + Undo</text>
+    </g>
+    <path d="M42 274H998" stroke="#b8c1b5"/>
+    <path d="M267 201h14m240 0h14m216 0h14" stroke="#f0a676" stroke-width="2.5"/>
+    <path d="M280 196l9 5-9 5z M534 196l9 5-9 5z M764 196l9 5-9 5z" fill="#f0a676"/>
+    <g font-size="16" font-weight="700" fill="#f0a676">
+      <text x="42" y="310">CURRENT STATE</text><text x="302" y="310">CHANGES IN THIS PR</text>
+      <text x="558" y="310">OUT OF SCOPE</text><text x="784" y="310">END RESULT</text>
+    </g>
+    <g font-family="Georgia,serif" font-size="17" fill="#e2ded2">
+      <text x="42" y="339">Protected scaffold</text><text x="302" y="339">Installable source, tests</text>
+      <text x="302" y="363">and guides</text><text x="558" y="339">Working Set and</text>
+      <text x="558" y="363">original prototype</text><text x="784" y="339">Reviewable bridge and</text>
+      <text x="784" y="363">repeatable acceptance</text>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,10 @@
+# Codex Ableton Bridge
+
+> A local Codex MCP server and Ableton Live Control Surface for selected edits and FFmpeg render measurements.
+
+- [Source repository](https://github.com/jeremybboy/codex-ableton-bridge)
+- [Documentation](https://jeremybboy.github.io/codex-ableton-bridge/)
+- [Quick start and synthetic example](https://jeremybboy.github.io/codex-ableton-bridge/quickstart.html)
+- [Architecture and tools](https://jeremybboy.github.io/codex-ableton-bridge/architecture.html)
+- [Verification](https://jeremybboy.github.io/codex-ableton-bridge/verification.html)
+- [Contributing](https://github.com/jeremybboy/codex-ableton-bridge/blob/main/CONTRIBUTING.md)

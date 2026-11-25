@@ -4,10 +4,14 @@ title: Codex Ableton Bridge
 
 # Codex Ableton Bridge
 
-A local macOS bridge for selected Ableton Live edits and audio measurements.
+A local bridge for selected Ableton Live edits and measurements of exported sound.
 
-![Codex commands pass through a local bridge to Ableton Live. A Main export provides the audio for measurement.](assets/repository-overview.svg)
+![Codex commands pass through a local bridge to Live. A Main export supplies the audio for measurement.](assets/repository-overview.svg)
 
-The development workflow pairs each requested edit with readback from Live and uses a Main export when the result needs an audio measurement.
+The bridge reads back edits from Live. Export a track when you need evidence about a source, or export Main when you need to measure the mix.
 
-[Source repository](https://github.com/jeremybboy/codex-ableton-bridge)
+- [Install and try the bridge](quickstart.md)
+- [Inspect the architecture and tool surface](architecture.md)
+- [Review evidence and repeat the Live acceptance checks](verification.md)
+- [Continue the implementation review](continuation.md)
+- [Source repository and contribution guide](https://github.com/jeremybboy/codex-ableton-bridge)
