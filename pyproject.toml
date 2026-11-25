@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=77"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "codex-ableton-bridge"
+version = "0.1.0"
+description = "Local Codex MCP tools and an Ableton Live Control Surface"
+readme = "README.md"
+requires-python = ">=3.10"
+license = "MIT"
+license-files = ["LICENSE"]
+
+[project.urls]
+Repository = "https://github.com/jeremybboy/codex-ableton-bridge"
+Documentation = "https://jeremybboy.github.io/codex-ableton-bridge/"
+
+[project.scripts]
+codex-ableton-bridge = "codex_ableton_bridge.server:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]

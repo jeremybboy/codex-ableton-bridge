@@ -23,3 +23,11 @@ dist/
 *.mid
 *.midi
 *.log
+*.alp
+*.caf
+*.ogg
+*.opus
+*.mp4
+*.mov
+_site/
+.jekyll-cache/
